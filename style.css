@@ -1,0 +1,113 @@
+body {
+    font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+    font-size: 100%;
+    line-height: 200%;
+    width: 98%;
+    background-color: #323A47;
+    color:#E9F0F5;
+    text-align: center;
+}
+p {
+    color: #E9F0F5;
+    text-align: start;
+    font-size: 100%;
+    line-height: 200%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+h1 {
+    color: #E9F0F5;
+    font-size: 200%;
+}
+
+img {
+    margin-top: 30px;
+    border: 0.4vw solid black;
+    border-radius: 20px;
+    border-width: 5px;
+    width: 70px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+ol {
+    margin-left: 10%;
+    margin-right: 10%;
+    line-height: 200%;
+    text-align: start;
+}
+.sas {
+    text-align: center;
+}
+a  {
+    color:#E9F0F5;
+}
+main {
+    text-align: center;
+    width: 95%;
+    padding-bottom: 3%;
+    background-color: #22282F;
+    margin-left: auto;
+    margin-right: auto;
+    border-top: rgba(0, 0, 0, 0);
+    border-bottom: #22282F;
+    border-left: #e4524f;
+    border-right: #e4524f;
+    border-style: solid;
+}
+h1 {
+    font-size: 125%;
+}
+h2, h2 a {
+    text-decoration-line:underline;
+    text-decoration-style:inherit;
+    text-decoration-color: #6d0000;
+    font-size: 110%;
+    color: white;
+    text-align: center;
+}
+
+h3 a {
+    font-size: 90%;
+    
+    
+}
+i {
+    font-weight: bold;
+    color:#e4524f;
+}
+.table {
+    width: 80%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #22282F;
+    border: rgba(0, 0, 0, 0);
+    border-right: #e4524f ;
+    border-left: #e4524f;
+    border-style: double;
+    border-width: 20px;
+}
+
+.button {
+    border-radius: 15px;
+    background-color: #e4524f;
+    padding: 20px;
+    color: white;
+}
+
+.info {
+    margin-bottom: -100px;
+    width: 80%;
+    font-weight: 500;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #22282F;
+    border-style: solid;
+    border-color:#e4524f;
+    border-top: #22282F;
+    border-width: 5%;
+
+}
