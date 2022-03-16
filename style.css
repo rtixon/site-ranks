@@ -1,4 +1,6 @@
 body {
+    background-image: url(img/background4.jpg);
+    background-image: 10px;
     font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
     font-size: 100%;
     line-height: 200%;
@@ -8,7 +10,7 @@ body {
     text-align: center;
 }
 p {
-    color: #E9F0F5;
+    color: whitesmoke;;
     text-align: start;
     font-size: 100%;
     line-height: 200%;
@@ -36,34 +38,30 @@ ol {
     line-height: 200%;
     text-align: start;
 }
-.sas {
-    text-align: center;
-}
+
 a  {
     color:#E9F0F5;
 }
 main {
+    /*background-image: url(img/background2.jpg);*/
+    border-radius: 30px;
     text-align: center;
-    width: 95%;
+    width: 80%;
     padding-bottom: 3%;
     background-color: #22282F;
     margin-left: auto;
     margin-right: auto;
-    border-top: rgba(0, 0, 0, 0);
-    border-bottom: #22282F;
-    border-left: #e4524f;
-    border-right: #e4524f;
+    border-color: black;
     border-style: solid;
+    border-width: 5px;
 }
 h1 {
     font-size: 125%;
+    color:rgb(255, 81, 0);
 }
 h2, h2 a {
-    text-decoration-line:underline;
-    text-decoration-style:inherit;
-    text-decoration-color: #6d0000;
+    color:rgb(255, 81, 0);;
     font-size: 110%;
-    color: white;
     text-align: center;
 }
 
@@ -74,9 +72,10 @@ h3 a {
 }
 i {
     font-weight: bold;
-    color:#e4524f;
+    color:rgb(255, 81, 0);;
 }
 .table {
+    border-radius: 30px;
     width: 80%;
     margin-top: 30px;
     margin-bottom: 30px;
@@ -85,15 +84,15 @@ i {
     text-align: center;
     background-color: #22282F;
     border: rgba(0, 0, 0, 0);
-    border-right: #e4524f ;
-    border-left: #e4524f;
+    border-right: rgb(255, 81, 0);
+    border-left: rgb(255, 81, 0);
     border-style: double;
     border-width: 20px;
 }
 
 .button {
     border-radius: 15px;
-    background-color: #e4524f;
+    background-color: rgb(255, 81, 0);
     padding: 20px;
     color: white;
 }
